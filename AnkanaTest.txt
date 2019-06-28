@@ -1,0 +1,12 @@
+Hi! I am Ankana.
+The ten git commands are:-
+git config
+git init
+git clone
+git add
+git commit
+git diff
+git reset
+git status
+git rm
+git log
